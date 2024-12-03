@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **dennisk.blas@gmail.com**
 
-- 📄 Know about my experiences [https://dkevlas.github.io/me/inicio](https://dkevlas.github.io/me/inicio)
+- 📄 Know about my experiences [https://dkevlas.github.io/me/inicio](https://dkevlas.github.io/me/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
