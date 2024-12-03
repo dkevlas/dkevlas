@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Front-end frameworks like Angular to enhance my UI/UX design skills**
 
-- 👨‍💻 All of my projects are available at [https://github.com/dkevlas/kevlas.git](https://github.com/dkevlas/kevlas.git)
-
 - 📫 How to reach me **dennisk.blas@gmail.com**
 
 - 📄 Know about my experiences [https://dkevlas.github.io/me](https://dkevlas.github.io/me/)
