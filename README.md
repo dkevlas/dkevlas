@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **dennisk.blas@gmail.com**
 
-- 📄 Know about my experiences [https://dkevlas.github.io/me](https://dkevlas.github.io/me/)
+- 📄 Know about my experiences [https://kevin.sennid.com/](https://kevin.sennid.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
